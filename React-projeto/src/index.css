@@ -1,0 +1,16 @@
+body{
+  background-color: aqua;
+}
+
+.lamp-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .lamp-image {
+    width: 200px;
+    height: 200px;
+  }
+  
